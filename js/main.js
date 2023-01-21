@@ -66,7 +66,6 @@ function createMem()
     memberList.push(member);
     renderTable(memberList)
     resetForm();
-    console.log(chucvu);
     }
 }
 
