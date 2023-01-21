@@ -101,11 +101,6 @@ function resetForm()
     document.querySelector("#gioLam").value="";
     document.querySelector("#tknv").disabled=false;
     document.querySelector("#btnThemNV").disabled=false;
-   let mauSac= document.getElementsByClassName("demo");
-   for(let i=+0; i<mauSac.length;i++)
-   {
-    mauSac[i].getElementsByClassName.color="white";
-   }
 }
 
 
